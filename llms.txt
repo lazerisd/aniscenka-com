@@ -47,6 +47,10 @@ Yes. Your clients stay yours, and you invoice them.
 ### Do you do calls?
 I mostly work in writing, so every agreement stays on record. If you prefer a call, we can do one.
 
+## Research
+
+- [What slows online stores down on mobile: a check of 40 random WooCommerce stores from kainos.lt](https://aniscenka.com/mobile-speed/): In November 2026 I ran Google PageSpeed on 40 randomly picked WooCommerce stores from kainos.lt. The most common finding is CSS or JavaScript that blocks rendering (36 of 40). Five findings and how to check your own store.
+
 ## Other language
 
 - Lietuviškai: https://aniscenka.lt/
