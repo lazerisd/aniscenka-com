@@ -1,0 +1,52 @@
+# Dom | E-commerce developer
+
+> Online store and website builds, improvements, speed and maintenance. WooCommerce, Shopify, PrestaShop, WordPress. Fixed price, everything in writing.
+
+- I do: Builds · Improvements · Speed · Maintenance
+- Platforms: WooCommerce · Shopify · WordPress · PrestaShop (after a check)
+- Guarantee: Every job: your expectations are always met, down to the last detail. You pay for the results you wanted
+- Email: dom@aniscenka.com
+- Location: Lithuania
+
+## Prices
+
+- Builds and improvements: Based on scope. You get a fixed price and deadline within 1 working day of your brief. Price agreed in writing before work starts.
+- Speed optimisation: from €250. 3 working days from the day I get access. If mobile load time (PageSpeed) isn't at least 20% faster, you don't pay.
+- Bug fixes: from €150. Usually 2-3 working days from the day I get access. Problem list before work starts.
+- Maintenance retainer: from €300/month. up to 6 hours a month. Work starts within 1 working day.
+
+## FAQ
+
+### How much does a new store cost?
+It depends on the scope. Describe what you need and you get a fixed price and a deadline in writing within 1 working day.
+
+### Who owns the site and the accounts?
+You do. Everything is built in your accounts, and I hand over all access when the work is done.
+
+### What access do you need?
+Admin access to the store and access to hosting (not needed for Shopify). You can remove it as soon as the work is done.
+
+### Does the guarantee cover every job?
+Yes. Every job comes with a guarantee: your expectations are always met, down to the last detail. You pay for the results you wanted. Speed work also has a clear measure: if mobile LCP in PageSpeed isn't at least 20% faster, I refund the deposit.
+
+### What if the speed doesn't improve?
+I run Google PageSpeed for mobile three times before and after the work, on the page we agree in writing, and take the median LCP (the time until the main content shows). If it isn't at least 20% faster, I refund the deposit and you owe nothing.
+
+### What if something breaks after the work?
+For 14 days after handover I fix anything I worked on that stops working, free of charge, unless it was changed or updated by you or someone else afterwards. This does not limit your statutory consumer rights.
+
+### Can I cancel the contract?
+If you order as a private person, you can cancel within 14 days of the agreement without giving a reason. An email to dom@aniscenka.com is enough. If you asked me to start earlier, you pay only for the part done before you cancelled. Once the work is fully done at your request, the right to cancel no longer applies.
+
+### Do you work with older PrestaShop or OpenCart versions?
+I decide after the check. If it's not a job for me, I say so straight away.
+
+### Can you work under my agency's name?
+Yes. Your clients stay yours, and you invoice them.
+
+### Do you do calls?
+I mostly work in writing, so every agreement stays on record. If you prefer a call, we can do one.
+
+## Other language
+
+- Lietuviškai: https://aniscenka.lt/
